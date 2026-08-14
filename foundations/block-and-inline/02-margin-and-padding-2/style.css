@@ -13,6 +13,7 @@ body {
 .content {
   background: #e3f4ff;
   margin-bottom: 6px;
+  padding: 16px;
 }
 
 .button-container {
