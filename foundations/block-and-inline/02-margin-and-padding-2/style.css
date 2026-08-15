@@ -29,6 +29,10 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  box-sizing: border-box;
+  display: inline-block;
+  width: 400px;
+  padding-left: 180px;
 }
 
 button {
