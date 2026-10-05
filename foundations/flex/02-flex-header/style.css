@@ -23,6 +23,7 @@ ul {
   flex-direction: row;
   padding: 0;
   margin: 0 8px;
+  gap: 13px;
 }
 
 a {
