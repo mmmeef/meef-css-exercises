@@ -20,6 +20,27 @@ img {
   align-items: center;
 }
 
+.barberry {
+  display: flex;
+  flex-direction: column;
+}
+
+.chili {
+  display: flex;
+  flex-direction: column;
+}
+
+.pepper {
+  display: flex;
+  flex-direction: column;
+}
+
+.saffron {
+  display: flex;
+  flex-direction: column;
+}
+
+
 /* do not edit this footer */
 .footer {
   position: fixed;
