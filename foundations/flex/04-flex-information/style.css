@@ -12,6 +12,7 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 .barberry, .chili, .pepper, .saffron {
@@ -19,12 +20,14 @@ img {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin: 0;
 }
 
 .plants {
   display: flex;
   justify-content: space-around;
   gap: 52px;
+  margin: 0 450px;
 }
 
 /* do not edit this footer */
