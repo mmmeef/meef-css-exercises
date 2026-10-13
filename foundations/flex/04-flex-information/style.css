@@ -18,28 +18,13 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.barberry {
-  display: flex;
   flex-direction: column;
 }
 
-.chili {
+.plants {
   display: flex;
-  flex-direction: column;
+  justify-content: space-around;
 }
-
-.pepper {
-  display: flex;
-  flex-direction: column;
-}
-
-.saffron {
-  display: flex;
-  flex-direction: column;
-}
-
 
 /* do not edit this footer */
 .footer {
