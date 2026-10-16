@@ -5,6 +5,10 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  /* mine below */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 img {
@@ -24,7 +28,7 @@ input {
   padding: 8px 24px;
   width: 400px;
 }
-
+/* mine below */
 ul {
   list-style-type:none;
   padding: 0;
