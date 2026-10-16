@@ -55,6 +55,9 @@ body {
 }
 
 .header {
+  margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: 700;
   display: flex;
   justify-content: space-between;
   align-items: center;
