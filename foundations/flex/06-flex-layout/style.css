@@ -42,6 +42,12 @@ ul {
   align-items: center;
 }
 
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .header {
   display: flex;
 }
