@@ -53,5 +53,10 @@ ul {
 
 .header {
   display: flex;
-  min-height: 800px;
+  height: 100vh;
+}
+
+.footer {
+  display: flex;
+  height: 100vh;
 }
