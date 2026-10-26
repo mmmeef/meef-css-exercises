@@ -61,3 +61,11 @@ ul {
   flex-direction: column-reverse;
   height: 100vh;
 }
+
+.header .left-links {
+  display: flex;
+}
+
+.header .right-links {
+  display: flex;
+}
