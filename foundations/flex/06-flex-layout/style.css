@@ -64,8 +64,10 @@ ul {
 
 .header .left-links {
   display: flex;
+  gap: 10px;
 }
 
 .header .right-links {
   display: flex;
+  gap: 10px;
 }
