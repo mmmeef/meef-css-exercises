@@ -40,6 +40,11 @@ ul {
   margin: 0;
 }
 
+a {
+  color: #666;
+  text-decoration: none;
+}
+
 .buttons {
   display: flex;
   justify-content: center;
