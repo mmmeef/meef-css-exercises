@@ -12,7 +12,7 @@ body {
   background: darkmagenta;
   color: white;
   /* mine below */
-  padding: 0;
+  padding-left: 16px;
   margin: 0;
   display: flex;
   justify-content: flex-start;
