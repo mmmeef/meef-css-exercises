@@ -37,6 +37,10 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  /* mine below */
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
 }
 
 .card {
