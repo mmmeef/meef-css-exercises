@@ -58,5 +58,8 @@ a {
 ul {
   list-style-type: none;
   padding-left: 13px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
