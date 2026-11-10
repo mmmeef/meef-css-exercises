@@ -40,13 +40,13 @@ body {
   /* mine below */
   display: flex;
   flex-direction: column;
-  flex-grow: 1;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 48px;
 }
 /* mine below */
 a {
@@ -63,3 +63,12 @@ ul {
   gap: 10px;
 }
 
+.mid {
+  display: flex;
+}
+
+.content{
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 400px;
+}
