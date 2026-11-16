@@ -13,8 +13,10 @@ body {
   color: white;
   /* mine below */
   padding-left: 16px;
+  /* did not need one right below */
   margin: 0;
   display: flex;
+  /* did not need one right below */
   justify-content: flex-start;
   align-items: center;
   font-size: 32px;
@@ -38,9 +40,11 @@ body {
   background: royalblue;
   box-sizing: border-box;
   /* mine below */
+  /* did not need all two below */
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  /* could have padding:16  */
 }
 
 .card {
@@ -61,18 +65,27 @@ a {
 
 ul {
   list-style-type: none;
+  /* did not need all 4 below */
   padding-left: 13px;
   display: flex;
   flex-direction: column;
   gap: 10px;
+  /* could have margin 0 padding 0 */
 }
+
+/* could have added 
+li {
+  margin-bottom: 16px;
+} */
 
 .mid {
   display: flex;
+  /* could have flex:1 here  */
 }
 
 .content{
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
+  /* could have gap 32px here */
 }
