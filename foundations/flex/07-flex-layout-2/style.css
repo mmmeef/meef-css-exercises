@@ -49,6 +49,7 @@ body {
   padding: 10px 10px;
   padding-bottom: 200px;
   margin: 15px;
+  width: 400px;
 }
 /* mine below */
 a {
@@ -72,5 +73,4 @@ ul {
 .content{
   display: flex;
   flex-wrap: wrap;
-  flex-basis: 400px;
 }
